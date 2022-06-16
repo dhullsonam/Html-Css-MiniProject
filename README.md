@@ -6,3 +6,8 @@
 - Reviving fisheries around the world
 
 ![alt projectScreenshot](./screenshot/rebirth.png)
+
+## Technologies Used
+
+- HTMl5
+- CSS
