@@ -46,7 +46,7 @@ body{
     color: white;
 }
 .Content-child1{
-    top:150%
+    top:120%
 }
 
 .clean-air{
@@ -94,13 +94,14 @@ background-image: url('../images/cd.jpg');
 } */
 
  .Content-childd{
-     top: 310%;
+     top: 240%;
  }
  .Content-childd .text1 a{
     color: white;
-    text-decoration: none;
-   
-     
+    text-decoration: none;   
+ }
+ .Content-child2{
+    top: 200%;
  }
  .text1{
     text-align: center;
@@ -119,5 +120,5 @@ background-image: url('../images/cd.jpg');
      font-size: 50px;
  }
  .Contact-ch{
-    top: 365%;
+    top: 290%;
  }
