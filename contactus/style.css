@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+}
+body{
+    height: 100%;
+     background-image: linear-gradient(to right, rgba(236, 228, 228, 0), rgb(30, 99, 3)); 
+    /* background-image: url('https://st.depositphotos.com/1465849/1475/i/600/depositphotos_14758251-stock-photo-red-telephone-cable-hanging.jpg');
+     background-repeat: no-repeat;
+    /* background-size: cover; */  
+ }
+.navbar{  
+  height: 50px;
+  width: 100%;
+  position: fixed;
+}
+.navbar img{
+    padding: 25px;
+}
+
+.navbar a{
+    text-decoration: none;
+    padding: 20px;
+    float: right;
+    font-size: 20px;
+    color: white;
+}
+.container{
+    height: 400px;
+    width: 300px;
+    border-bottom: transparent;
+    margin: auto;
+    padding-top: 200px;
+   
+
+}
+
+.container h1{
+    padding: 30px;
+}
+
+.phone{
+     float: left;
+}
+.phone p{
+    float: right;
+    padding: 10px;
+}
+.email{
+    float: left;
+}
+.email p{
+    float: right;
+    padding: 10px;
+}

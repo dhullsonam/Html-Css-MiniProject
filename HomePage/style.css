@@ -70,6 +70,10 @@ body{
     /* padding-right: 60px; */
     width: 49%;
 }
+.image-holder img:hover{
+    height: 370px;
+    width: 450px;
+}
 .text{
     text-align: center;
     height: auto;
@@ -88,3 +92,32 @@ background-image: url('../images/cd.jpg');
   background-size: cover;
   text-align: center;
 } */
+
+ .Content-childd{
+     top: 320%;
+ }
+ .Content-childd .text1 a{
+    color: white;
+    text-decoration: none;
+   
+     
+ }
+ .text1{
+    text-align: center;
+    height: auto;
+    width: 50%;
+    float: left;
+    padding-top: 100px;
+   
+ }
+ .Content-childd .text1 a p{
+    font-size: 35px;
+    padding-left:30px;
+   
+ }
+ .text1 :hover{
+     font-size: 50px;
+ }
+ .Contact-ch{
+    top: 390%;
+ }

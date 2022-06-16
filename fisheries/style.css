@@ -1,0 +1,50 @@
+.parallax {
+   background-image: url("../images/ocean.jpg");
+  
+  height: 1000px; 
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+
+@media only screen and (max-device-width: 1366px) {
+  .parallax {
+    background-attachment: scroll;
+  }
+}
+.parallax1{
+    background-image: url('../images/fish.jpg');
+}
+.navbar{  
+  height: 50px;
+  width: 100%;
+  position: fixed;
+}
+.navbar img{
+    padding: 25px;
+}
+
+.navbar a{
+    text-decoration: none;
+    padding: 20px;
+    float: right;
+    font-size: 20px;
+    color: green;
+}
+
+.Content-child{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    color: rgb(5, 4, 16);
+}
+.Content-child1{
+    top:170%
+}
+.Content-child2{
+    top:240%;
+}
